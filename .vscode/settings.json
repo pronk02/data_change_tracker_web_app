@@ -4,5 +4,6 @@
         ".vscode{,/**}"
     ],
     "appService.defaultWebAppToDeploy": "/subscriptions/be10a252-6057-4f8d-8660-f804ac390fc2/AppServices/subscriptions/be10a252-6057-4f8d-8660-f804ac390fc2/resourceGroups/netsuite-api-management/providers/Microsoft.Web/sites/hms-netsuite-data-change-tracker",
-    "appService.deploySubpath": "public"
+    "appService.deploySubpath": "public",
+    "dotenv.enableAutocloaking": false
 }
