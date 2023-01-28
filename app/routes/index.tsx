@@ -8,7 +8,7 @@ const loader:LoaderFunction = async() => {
 export default function Index() {
     return (
         <div>
-            <p>Test</p>
+            <p>Test 2</p>
         </div>
     );
 }
